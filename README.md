@@ -42,3 +42,7 @@ Frederic Blain, Holger Schwenk, Jean Senellart, "Incremental Adaptation Using Tr
 [2]: http://www.statmt.org/moses/?n=Moses.AdvancedFeatures#w2walignment "w2w alignment in Moses"
 [3]: http://tercpp.sourceforge.net/ "TERcpp"
 [4]: http://fr.linkedin.com/pub/christophe-servan/24/752/875 "Christophe Servan"
+
+**-- Acknowledgment**
+
+This research was partially financed by the DGA and the ANRT under CIFRE-Defense 7/2009, the french ANR project COSMAT under ANR-09-CORD-004, and the European Commission under the project MATECAT, ICT-2011.4.2–287688.
